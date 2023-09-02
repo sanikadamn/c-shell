@@ -1,0 +1,2 @@
+main:
+	gcc -g main.c prompt/prompt.c warp/warp.c peek/peek.c clear/clear.c seek/seek.c files/files.c pastevents/pastevents.c callfunction/callfunction.c proclore/proclore.c checkbgprocess/checkbgprocess.c fgbg/fgbg.c tokenize/tokenize.c
